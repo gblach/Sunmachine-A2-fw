@@ -1,5 +1,7 @@
 # Sunmachine-A2-fw
-Firmware for the [Sunmachine-A2-pcb](https://github.com/gblach/Sunmachine-A2-pcb) board. It allows to control WS2812, SK6812 or similar LED strips via Bluetooth LE. It supports both RGB and WWA LEDs.
+The firmware for the [Sunmachine-A2-pcb](https://github.com/gblach/Sunmachine-A2-pcb) board.
+It allows to control WS2812, SK6812 or similar LED strips via Bluetooth LE. It supports both RGB and WWA LEDs.
+Boards with this firmware can be controlled using the [Sunmachine-app](https://github.com/gblach/Sunmachine-app) mobile app.
 
 ## Installing pre-built firmware
 Pre-built firmware is saved in [Sunmachine-A2-fw.hex](Sunmachine-A2-fw.hex) file.
